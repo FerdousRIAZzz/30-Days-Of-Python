@@ -1,4 +1,4 @@
-🐍# 30 Days Of Python
+🐍 30 Days Of Python !!
 
 One single project a day for practicing Python — 30 small, finished projects, no exceptions on the "finished" part!
 
